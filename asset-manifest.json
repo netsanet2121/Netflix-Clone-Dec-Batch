@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/static/css/main.d7b759e5.css",
+    "main.js": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/static/js/main.1b667dc6.js",
+    "static/media/Netflix_Logo.png": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/static/media/Netflix_Logo.303904f75553a51bbf31.png",
+    "index.html": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/index.html",
+    "main.d7b759e5.css.map": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/static/css/main.d7b759e5.css.map",
+    "main.1b667dc6.js.map": "/netsanet2121.github.io/Netflix-Clone-Dec-Batch/static/js/main.1b667dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b759e5.css",
+    "static/js/main.1b667dc6.js"
+  ]
+}
